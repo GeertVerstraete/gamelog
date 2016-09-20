@@ -1,0 +1,1 @@
+insert into game(id, title, description, rating) values(1, 'borderlands', 'shooting', '5/7')
